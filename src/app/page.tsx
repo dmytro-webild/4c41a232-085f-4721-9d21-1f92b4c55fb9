@@ -53,27 +53,27 @@ export default function LandingPage() {
       description="Harness the power of AI to understand the nutritional value of your food instantly. Just point, scan, and optimize your diet."
       mediaItems={[
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png?_wi=1",
           imageAlt: "AI Scanner App",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png?_wi=2",
           imageAlt: "Scanner View 2",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png?_wi=3",
           imageAlt: "Scanner View 3",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png?_wi=4",
           imageAlt: "Scanner View 4",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png?_wi=5",
           imageAlt: "Scanner View 5",
         },
         {
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png?_wi=6",
           imageAlt: "Scanner View 6",
         },
       ]}
@@ -160,7 +160,7 @@ export default function LandingPage() {
           role: "Fitness Coach",
           company: "FitLife",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/portrait-of-a-healthy-active-person-prof-1774664176419-6cddd641.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/portrait-of-a-healthy-active-person-prof-1774664176419-6cddd641.png?_wi=1",
         },
         {
           id: "2",
@@ -192,7 +192,7 @@ export default function LandingPage() {
           role: "Chef",
           company: "CulinaryBio",
           rating: 5,
-          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/portrait-of-a-healthy-active-person-prof-1774664176419-6cddd641.png",
+          imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/portrait-of-a-healthy-active-person-prof-1774664176419-6cddd641.png?_wi=2",
         },
       ]}
       title="Trusted by Healthy Eaters"
