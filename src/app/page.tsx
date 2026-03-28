@@ -45,12 +45,12 @@ export default function LandingPage() {
             title="Scan, Analyze, Eat Healthier."
             description="Harness the power of AI to understand the nutritional value of your food instantly. Just point, scan, and optimize your diet."
             mediaItems={[
-              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png", imageAlt: "AI Scanner App" },
-              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png", imageAlt: "Scanner View 2" },
-              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png", imageAlt: "Scanner View 3" },
-              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png", imageAlt: "Scanner View 4" },
-              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png", imageAlt: "Scanner View 5" },
-              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png", imageAlt: "Scanner View 6" },
+              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png?_wi=1", imageAlt: "AI Scanner App" },
+              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png?_wi=2", imageAlt: "Scanner View 2" },
+              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png?_wi=3", imageAlt: "Scanner View 3" },
+              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png?_wi=4", imageAlt: "Scanner View 4" },
+              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png?_wi=5", imageAlt: "Scanner View 5" },
+              { imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/futuristic-ai-food-scanning-interface-gl-1774664179054-346befb4.png?_wi=6", imageAlt: "Scanner View 6" },
             ]}
             mediaAnimation="blur-reveal"
           />
@@ -93,11 +93,11 @@ export default function LandingPage() {
             gridVariant="four-items-2x2-equal-grid"
             useInvertedBackground={false}
             testimonials={[
-              { id: "1", name: "Sarah Miller", role: "Fitness Coach", company: "FitLife", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/portrait-of-a-healthy-active-person-prof-1774664176419-6cddd641.png" },
+              { id: "1", name: "Sarah Miller", role: "Fitness Coach", company: "FitLife", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/portrait-of-a-healthy-active-person-prof-1774664176419-6cddd641.png?_wi=1" },
               { id: "2", name: "David Chen", role: "Nutritionist", company: "WellLab", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/portrait-of-a-focused-nutrition-professi-1774664177546-c610c768.png" },
               { id: "3", name: "Alex Smith", role: "Parent", company: "FamilyHealth", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/portrait-of-a-busy-parent-modern-kitchen-1774664177425-44cd4d81.png" },
               { id: "4", name: "Jordan Lee", role: "Student", company: "EduNutrition", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/portrait-of-a-young-active-student-minim-1774664179148-320853a7.png" },
-              { id: "5", name: "Elena Ross", role: "Chef", company: "CulinaryBio", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/portrait-of-a-healthy-active-person-prof-1774664176419-6cddd641.png" },
+              { id: "5", name: "Elena Ross", role: "Chef", company: "CulinaryBio", rating: 5, imageSrc: "https://webuild-dev.s3.eu-north-1.amazonaws.com/users/user_3BYRgfXjc22B8bQWjYpYNtyCsyM/portrait-of-a-healthy-active-person-prof-1774664176419-6cddd641.png?_wi=2" },
             ]}
             title="Trusted by Healthy Eaters"
             description="Hear what our users say about the HealthyScan AI experience."
